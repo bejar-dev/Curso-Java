@@ -57,7 +57,7 @@ public class HelloWorldExercises {
                 (> ◘ <)
                 """);
 
-        // 9. Intenta ejecutar el programa sin el método main y observa el error.
+        // 9. Intenta ejecutar el programa sin el metodo main y observa el error.
         // No se detecta un main, sale un error, no se puede ejecutar.
 
         //10. Intenta cambiar el nombre del archivo a uno diferente del de la clase y compílalo. ¿Qué pasa?
